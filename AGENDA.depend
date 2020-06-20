@@ -1,0 +1,313 @@
+# depslib dependency file v1.0
+1492948308 source:c:\users\dell\desktop\tgs alpro\agenda\pustaka.c
+	"pustaka.h"
+
+1492948536 c:\users\dell\desktop\tgs alpro\agenda\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1492948838 source:c:\users\dell\desktop\tgs alpro\agenda\main.c
+	"pustaka.h"
+
+1492948838 source:c:\users\ivan\downloads\compressed\agenda\main.c
+	"pustaka.h"
+
+1492948536 c:\users\ivan\downloads\compressed\agenda\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1492948308 source:c:\users\ivan\downloads\compressed\agenda\pustaka.c
+	"pustaka.h"
+
+1495037851 source:d:\temporary tugas\agenda\pustaka.c
+	"pustaka.h"
+
+1495030531 d:\temporary tugas\agenda\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1495034273 source:d:\temporary tugas\agenda\main.c
+	"pustaka.h"
+
+1495072234 source:c:\users\dell\desktop\agenda\agenda\main.c
+	"pustaka.h"
+
+1495072504 c:\users\dell\desktop\agenda\agenda\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1495072352 source:c:\users\dell\desktop\agenda\agenda\pustaka.c
+	"pustaka.h"
+
+1495072405 source:f:\tgs alpro\agenda\agenda\main.c
+	"pustaka.h"
+
+1495072504 f:\tgs alpro\agenda\agenda\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1495072352 source:f:\tgs alpro\agenda\agenda\pustaka.c
+	"pustaka.h"
+
+1496257049 source:d:\tubes\agenda - ver1.1 (by kevin)\pustaka.c
+	"pustaka.h"
+
+1496254519 d:\tubes\agenda - ver1.1 (by kevin)\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1496255956 source:d:\tubes\agenda - ver1.1 (by kevin)\main.c
+	"pustaka.h"
+
+1496255956 source:d:\tubes\agenda - ver1.2 (revisi by ivan)\main.c
+	"pustaka.h"
+
+1496254519 d:\tubes\agenda - ver1.2 (revisi by ivan)\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1496257049 source:d:\tubes\agenda - ver1.2 (revisi by ivan)\pustaka.c
+	"pustaka.h"
+
+1496900692 source:d:\tubes\agenda - ver1.3 (revisi by ivan)\main.c
+	"pustaka.h"
+
+1496254519 d:\tubes\agenda - ver1.3 (revisi by ivan)\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1496900215 source:d:\tubes\agenda - ver1.3 (revisi by ivan)\pustaka.c
+	"pustaka.h"
+
+1496748073 source:d:\tubes\agenda - ver1.3 (revisi by ivan)\pustakauruttanggal.c
+	"pustaka.h"
+
+1496750933 source:d:\tubes\agenda - ver1.3 (revisi by ivan)\pustakafungsibaru.c
+	"pustaka.h"
+
+1497025074 source:d:\tubes\agenda - ver1.4 (revisi by ivan)\pustakafungsibaru.c
+	"pustaka.h"
+
+1497026620 d:\tubes\agenda - ver1.4 (revisi by ivan)\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1497023335 source:d:\tubes\agenda - ver1.4 (revisi by ivan)\pustakauruttanggal.c
+	"pustaka.h"
+
+1497026953 source:d:\tubes\agenda - ver1.4 (revisi by ivan)\main.c
+	"pustaka.h"
+
+1497027992 source:d:\tubes\agenda - ver1.4 (revisi by ivan)\pustaka.c
+	"pustaka.h"
+
+1497022061 source:d:\tubes\agenda - ver1.4 (revisi by ivan)\pustakahapuskegiatan.c
+	"pustaka.h"
+
+1497025072 source:d:\tubes\agenda - ver1.4 (revisi by ivan)\pustakainputan.c
+	"pustaka.h"
+
+1497025581 source:d:\tubes\agenda - ver1.4 (revisi by ivan)\pustakacekinput.c
+	"pustaka.h"
+
+1497025675 source:d:\tubes\agenda - ver1.4 (revisi by ivan)\pustakacarikegiatan.c
+	"pustaka.h"
+
+1497027916 source:d:\tubes\agenda - ver1.4 (revisi by ivan)\pustakaoutputkalender.c
+	"pustaka.h"
+
+1497067422 source:f:\tgs alpro\agenda revisi kevin ke-1\agenda - ver1.4 (revisi by ivan)\main.c
+	"pustaka.h"
+
+1497067742 f:\tgs alpro\agenda revisi kevin ke-1\agenda - ver1.4 (revisi by ivan)\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1497066919 source:f:\tgs alpro\agenda revisi kevin ke-1\agenda - ver1.4 (revisi by ivan)\pustaka.c
+	"pustaka.h"
+
+1497069386 source:f:\tgs alpro\agenda revisi kevin ke-1\agenda - ver1.4 (revisi by ivan)\pustakacarikegiatan.c
+	"pustaka.h"
+
+1496979258 source:f:\tgs alpro\agenda revisi kevin ke-1\agenda - ver1.4 (revisi by ivan)\pustakacekinput.c
+	"pustaka.h"
+
+1496979258 source:f:\tgs alpro\agenda revisi kevin ke-1\agenda - ver1.4 (revisi by ivan)\pustakafungsibaru.c
+	"pustaka.h"
+
+1496979258 source:f:\tgs alpro\agenda revisi kevin ke-1\agenda - ver1.4 (revisi by ivan)\pustakahapuskegiatan.c
+	"pustaka.h"
+
+1496979262 source:f:\tgs alpro\agenda revisi kevin ke-1\agenda - ver1.4 (revisi by ivan)\pustakainputan.c
+	"pustaka.h"
+
+1497068930 source:f:\tgs alpro\agenda revisi kevin ke-1\agenda - ver1.4 (revisi by ivan)\pustakaoutputkalender.c
+	"pustaka.h"
+
+1496979262 source:f:\tgs alpro\agenda revisi kevin ke-1\agenda - ver1.4 (revisi by ivan)\pustakauruttanggal.c
+	"pustaka.h"
+
+1497101981 source:d:\tubes\agenda - ver1.6 (revisi by ivan)\main.c
+	"pustaka.h"
+
+1497102191 d:\tubes\agenda - ver1.6 (revisi by ivan)\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1497102214 source:d:\tubes\agenda - ver1.6 (revisi by ivan)\pustaka.c
+	"pustaka.h"
+
+1496979258 source:d:\tubes\agenda - ver1.6 (revisi by ivan)\pustakacekinput.c
+	"pustaka.h"
+
+1496979258 source:d:\tubes\agenda - ver1.6 (revisi by ivan)\pustakafungsibaru.c
+	"pustaka.h"
+
+1496979262 source:d:\tubes\agenda - ver1.6 (revisi by ivan)\pustakainputan.c
+	"pustaka.h"
+
+1497102443 source:d:\tubes\agenda - ver1.6 (revisi by ivan)\pustakaoutputkalender.c
+	"pustaka.h"
+
+1496979262 source:d:\tubes\agenda - ver1.6 (revisi by ivan)\pustakauruttanggal.c
+	"pustaka.h"
+
+1497101148 source:d:\tubes\agenda - ver1.6 (revisi by ivan)\pustakacarikegiatan.c
+	"pustaka.h"
+
+1497099775 source:d:\tubes\agenda - ver1.6 (revisi by ivan)\pustakahapuskegiatan.c
+	"pustaka.h"
+
+1497109809 source:d:\tubes\agenda - ver1.7 (revisi by ivan) - final\pustaka.c
+	"pustaka.h"
+
+1497108465 d:\tubes\agenda - ver1.7 (revisi by ivan) - final\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1497108850 source:d:\tubes\agenda - ver1.7 (revisi by ivan) - final\pustakacarikegiatan.c
+	"pustaka.h"
+
+1497108851 source:d:\tubes\agenda - ver1.7 (revisi by ivan) - final\pustakacekinput.c
+	"pustaka.h"
+
+1496979258 source:d:\tubes\agenda - ver1.7 (revisi by ivan) - final\pustakafungsibaru.c
+	"pustaka.h"
+
+1497099775 source:d:\tubes\agenda - ver1.7 (revisi by ivan) - final\pustakahapuskegiatan.c
+	"pustaka.h"
+
+1497108850 source:d:\tubes\agenda - ver1.7 (revisi by ivan) - final\pustakainputan.c
+	"pustaka.h"
+
+1497108850 source:d:\tubes\agenda - ver1.7 (revisi by ivan) - final\pustakaoutputkalender.c
+	"pustaka.h"
+
+1497114616 source:d:\tubes\agenda - ver1.7 (revisi by ivan) - final\pustakauruttanggal.c
+	"pustaka.h"
+
+1497109810 source:d:\tubes\agenda - ver1.7 (revisi by ivan) - final\main.c
+	"pustaka.h"
+
+1497068208 source:f:\tgs alpro\agenda revisi kevin ke-1\agenda - ver1.7 (revisi by ivan) - diduga final\main.c
+	"pustaka.h"
+
+1497070601 f:\tgs alpro\agenda revisi kevin ke-1\agenda - ver1.7 (revisi by ivan) - diduga final\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1497068659 source:f:\tgs alpro\agenda revisi kevin ke-1\agenda - ver1.7 (revisi by ivan) - diduga final\pustaka.c
+	"pustaka.h"
+
+1497067232 source:f:\tgs alpro\agenda revisi kevin ke-1\agenda - ver1.7 (revisi by ivan) - diduga final\pustakacarikegiatan.c
+	"pustaka.h"
+
+1497066054 source:f:\tgs alpro\agenda revisi kevin ke-1\agenda - ver1.7 (revisi by ivan) - diduga final\pustakacekinput.c
+	"pustaka.h"
+
+1497066054 source:f:\tgs alpro\agenda revisi kevin ke-1\agenda - ver1.7 (revisi by ivan) - diduga final\pustakafungsibaru.c
+	"pustaka.h"
+
+1497066058 source:f:\tgs alpro\agenda revisi kevin ke-1\agenda - ver1.7 (revisi by ivan) - diduga final\pustakahapuskegiatan.c
+	"pustaka.h"
+
+1497067232 source:f:\tgs alpro\agenda revisi kevin ke-1\agenda - ver1.7 (revisi by ivan) - diduga final\pustakainputan.c
+	"pustaka.h"
+
+1497069609 source:f:\tgs alpro\agenda revisi kevin ke-1\agenda - ver1.7 (revisi by ivan) - diduga final\pustakaoutputkalender.c
+	"pustaka.h"
+
+1497066058 source:f:\tgs alpro\agenda revisi kevin ke-1\agenda - ver1.7 (revisi by ivan) - diduga final\pustakauruttanggal.c
+	"pustaka.h"
+
+1497179462 source:d:\tubes\agenda - ver1.8 (revisi by kevin) - finishing\main.c
+	"pustaka.h"
+
+1497070601 d:\tubes\agenda - ver1.8 (revisi by kevin) - finishing\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1497179562 source:d:\tubes\agenda - ver1.8 (revisi by kevin) - finishing\pustaka.c
+	"pustaka.h"
+
+1497067232 source:d:\tubes\agenda - ver1.8 (revisi by kevin) - finishing\pustakacarikegiatan.c
+	"pustaka.h"
+
+1497070601 source:d:\tubes\agenda - ver1.8 (revisi by kevin) - finishing\pustakacekinput.c
+	"pustaka.h"
+
+1497070598 source:d:\tubes\agenda - ver1.8 (revisi by kevin) - finishing\pustakafungsibaru.c
+	"pustaka.h"
+
+1497066058 source:d:\tubes\agenda - ver1.8 (revisi by kevin) - finishing\pustakahapuskegiatan.c
+	"pustaka.h"
+
+1497067232 source:d:\tubes\agenda - ver1.8 (revisi by kevin) - finishing\pustakainputan.c
+	"pustaka.h"
+
+1497070601 source:d:\tubes\agenda - ver1.8 (revisi by kevin) - finishing\pustakaoutputkalender.c
+	"pustaka.h"
+
+1497066058 source:d:\tubes\agenda - ver1.8 (revisi by kevin) - finishing\pustakauruttanggal.c
+	"pustaka.h"
+
+1497067232 source:d:\tubes\agenda - ver1.8 (revisi by kevin) - finishing - cetang cetung blm di fix\pustakacarikegiatan.c
+	"pustaka.h"
+
+1497070601 d:\tubes\agenda - ver1.8 (revisi by kevin) - finishing - cetang cetung blm di fix\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1497070601 source:d:\tubes\agenda - ver1.8 (revisi by kevin) - finishing - cetang cetung blm di fix\pustakacekinput.c
+	"pustaka.h"
+
+1497066058 source:d:\tubes\agenda - ver1.8 (revisi by kevin) - finishing - cetang cetung blm di fix\pustakahapuskegiatan.c
+	"pustaka.h"
+
+1497181639 source:d:\tubes\agenda - ver1.8 (revisi by kevin) - finishing - cetang cetung blm di fix\pustakainputan.c
+	"pustaka.h"
+
+1497181910 source:d:\tubes\agenda - ver1.8 (revisi by kevin) - finishing - cetang cetung blm di fix\pustakaoutputkalender.c
+	"pustaka.h"
+
+1497181712 source:d:\tubes\agenda - ver1.8 (revisi by kevin) - finishing - cetang cetung blm di fix\main.c
+	"pustaka.h"
+
+1497181720 source:d:\tubes\agenda - ver1.8 (revisi by kevin) - finishing - cetang cetung blm di fix\pustaka.c
+	"pustaka.h"
+
+1497179922 source:d:\tubes\agenda - ver1.8 (revisi by kevin) - finishing - cetang cetung blm di fix\pustakauruttanggal.c
+	"pustaka.h"
+

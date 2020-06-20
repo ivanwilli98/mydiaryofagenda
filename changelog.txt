@@ -1,0 +1,176 @@
+-----------------------------------------------------------------------------------------------------------------
+####                         !!!!!!    WHAT's NEW on APP - MY DIARY of AGENDA    !!!!!!                      ####
+-----------------------------------------------------------------------------------------------------------------
+
+Ver 0.0 (by Kevin)
+[3 Mei 2017]
+	(+) Pembuatan menu awal yang bisa looping dengan aman
+
+
+
+.................................................................................................................
+
+Ver 1.0 (by Ivan)
+[17 Mei 2017]
+	(+) Pembuatan semua prosedure dari awal
+
+
+
+.................................................................................................................
+
+Ver 1.1 (revisi by Kevin)
+[20 Mei 2017]
+	(+) Fix semua bug tanggal
+	(+) Fix output tanggal dan jam
+	(+) Percantik tampilan
+
+	(-) Liat no 6 TODOnya
+	(-) Eksekusi jam belum di fix bugnya
+
+
+
+.................................................................................................................
+
+Ver 1.2 (revisi by Ivan)
+[31 Mei 2017]
+	(+) Fix kalo data kosong = EMPTY
+	(+) Fix reload" ke menu input tanggal kalo salah
+	(+) Fix batas tahun di februari
+	(+) Fix batas input jam (max 23) --> Mohon di cek lagi
+	(+) Fix batas input tanggal di hapus + cari kegiatan (ga boleh 0 dan >31)
+	(+) Fix batas menit dan jam untuk akumulasi (jika 60 maka di akumulasi)
+
+	(-) cariKegiatan, kalau input 0 & 32+ ga mau balik ke menu inputan cari tanggal
+	(-) Bug hapus tanggal 0 masih bisa dijalankan!
+	(-) Bug Infinite Looping jika input 3\,3],dll (v)
+	(-) Tampilan hapus tanggal harus jelas
+	(-) Tampilan hapus array harus ke 1 (v)
+	(-) Bug Urutkan tanggal masih ngebug (v)
+
+
+
+.................................................................................................................
+
+Ver 1.3 (revisi by Ivan)
+[5 Mei 2017 - 6 Mei 2017]
+	(+) Penambahan pustakaUrutTanggal.c (5/6/2017)
+	(+) FIX urutkan tanggal (5/6/2017)
+	(+) FIX Hapus (data diubah jadi 0), urutkan (yang 0 di pindah ke kanan), dan pengurangan jmlData (6/6/2017)
+	(+) FIX hapus array harus ke 1 (06/06/2017)
+	(+) FIX Tampilan hapus arrah harus ke 1 (06/06/2017)
+	(+) FIX infinite looping (06/06/2017)
+	(+) FIX Hapus tanggal 0,tapi dia balik ke menu awal, bukan ke menu hapus pilihan;
+
+
+.................................................................................................................
+
+Ver 1.4 (revisi by ivan)
+[09 Mei 2017]
+	(+) Perapian code + penambahan file pustaka
+	(+) FIX jika semua data di hapus maka akan menampilkan EMPTY
+	(+) FIX bug Hapus kegiatan (ketika data tidak ketemu)
+	(+) FIX output jika cari tanggal tidak ada
+	(+) FIX cari kegiatan (output + jika error)
+	(+) Menghilangkan pilihan Urutkan kegiatan dan membuat data menjadi auto urut
+	(+) Penambahan fitur rahasia (6) cetak kalender (Asal copas)
+
+	(-) Animasi loading dkk (untuk semua)
+	(-) Output cari kegiatan kurang kece
+	(-) Keterangan output info jika salah (untuk semua)
+	(-) Pembetulan + Pemahaman fitur cetak kalender
+
+
+
+.................................................................................................................
+
+Ver 1.5 (revisi by Kevin)
+[09 Mei 2017]
+	(+) Animasi loading dkk (untuk semua)
+	(+) FIX semua bug di menu cetak kalender
+	(+) DONE - TODO for ver1.4+ poin ke-2.
+		2. Penambahan output kalender [v]
+	(+) CEK bug di hapus kegiatan dan menemukan sebuah bug.
+	(+) Mempercantik User Interface Output cari kegiatan	
+	(+) Pembetulan + Pemahaman fitur cetak kalender
+		Fitur Kalender :
+		1. Pempercantik User Interface.
+		2. Cetak Kalender.
+		3. Fungsi untuk mencetak kalender dengan tahun yang sama,
+		   maupun dengan tahun dan bulan yang sama sekali berbeda.
+		
+	(-) BUG di menu hapus kegiatan.
+	(-) Keterangan output info jika salah (untuk semua)
+
+
+
+.................................................................................................................
+
+Ver 1.6 (revisi by Ivan)
+[10 Mei 2017]
+	(+) Merapikan tampilan yang sudah percantik
+	(+) FIX GETCH yang di pindah - pindah
+	(+) FIX Error hapus data
+
+	(-) BUG di pengurutan DATA.
+
+
+
+.................................................................................................................
+
+Ver 1.7 (revisi by Ivan) (DIDUGA FINAL)
+[11 Mei 2017]
+	(+) Penambahan penempatan urutKegiatan di outputKegiatan
+	(+) Perubahan prosedur cara urutKegiatan
+	(+) Penghapusan komentar tidak penting
+
+
+.................................................................................................................
+
+	
+Ver 1.8 (revisi by Kevin) (FIXing and Re-Make User Interface and User Experience Issue)
+[11 Mei 2017]
+	(+) Bahasa lebih bersahabat
+	(+) Penambahan Notif suara pada peringatan jika terjadi kesalahan dan user input
+	(+) Re-Make Interface untuk menu Kalender(5)
+	(+) Re-Make Interface untuk menu EXIT(0)
+	(+) Re-Make format output tanggal pada saat input >0 && input <10 akan menjadi 01,02,03,dst..
+	(+) Penambahan dan menampilkan format tanggal [DD/MM/YYYY] disamping output kegiatan tanggal
+	(+) Penambahan dan menampilkan format jam [HH:MM:SS] disamping output kegiatan waktu
+
+	(revisi by Ivan)
+	(+) Perapian output posisi jika error 3x
+	(+) Perapian output posisi notif
+	(+) Pembetulan notifikasi yang terlalu banyak dari Kevin
+	(+) Penambahan output ("inputan jam melebihi batasan(maks 23)") pada saat input jam lebih dari 23
+
+
+
+.................................................................................................................
+
+TO DO (x/6/2017) for ver1.8+
+1. Menghilangkan printf di main.c dan diubah ke prosedure inputan [Hampir selesai]
+2.  -------> DONE
+3. Perapian batasan input (input kegiatan , input daftar nama) [x]
+4. Perapian code [Hampir selesai] 
+5. Memberi keterangan setiap code [Belum selesai]        <--- Menurut Kevin : "Tidak Harus Semuanya, yang penting2 aja."
+6. Pembuatan laporan [x]
+7.  -------> DONE
+8.  -------> DONE
+
+
+
+YANG HARUS DI CEK SETELAH DEBUG (DONE BY KEVIN, TESTED ON 10/06/2017, RESULT IS PERFECT!!)
+
+1. Input 2 tanggal sama dan bulan beda, apakah urut?  
+	--> Sudah DICEK oleh Kevin dan hasilnya SUDAH URUT! GOOD JOB! (TESTED ON 10/06/2017)
+
+2. Input tanggal dan bulan yang 30/31 dan Februari
+	--> Yang sudah DICEK Kevin dan hasilnya baik-baik saja (TESTED ON 10/06/2017) :
+		1. menginput tanggal 29 Feb 2020 (CEK KABISATNYA)
+		2. menginput tanggal 30 Feb 2020 (CEK KEVALIDAN BATAS HARI KABISATNYA)
+		
+		1. menginput tanggal 30 JUNI 2017 (CEK HARI TERAKHIR DI BULANNYA)
+		2. menginput tanggal 31 JUNI 2017 (CEK KEVALIDAN BATAS HARI)
+
+		1. menginput tanggal 30 MEI 2017 (CEK HARI TERAKHIR DI BULANNYA)
+		2. menginput tanggal 31 MEI 2017 (CEK KEVALIDAN BATAS HARI)
