@@ -13,4 +13,4 @@ run 'My Diary of Agenda.exe'
 ```
 
 ### Disclaimer
-The program is using Indonesia language inside
+> The program is using Indonesia language inside
